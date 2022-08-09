@@ -1,0 +1,1 @@
+console.log('Learning Chart.js')
